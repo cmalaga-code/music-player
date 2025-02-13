@@ -1,4 +1,4 @@
-# Spotify clone 🎶🎙️🎧
+# Music Player 🎶🎙️🎧
 
 ### Environments 💻
 1. development
